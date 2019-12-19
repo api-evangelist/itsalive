@@ -1,0 +1,62 @@
+{
+    "name": "ItsAlive",
+    "description": "Facebook ChatBot Creation Platform everyone can use. The tool that makes Facebook Chatbots easy and fast!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28213-itsalive.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "chats",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/itsalive\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ItsAlive",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28213-itsalive.jpg",
+            "humanURL": "https:\/\/itsalive.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/itsalive-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/its-alive\/timeline"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@itsalive.io"
+        },
+        {
+            "type": "Email",
+            "url": "join@itsalive.io"
+        },
+        {
+            "type": "Email",
+            "url": "partners@itsalive.io"
+        },
+        {
+            "type": "Email",
+            "url": "legal@itsalive.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ItsAliveApp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/itsalive.io"
+        }
+    ]
+}
